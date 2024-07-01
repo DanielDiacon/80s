@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a97e510b.css",
+    "main.js": "/static/js/main.426594b2.js",
+    "static/media/m1.mp3": "/static/media/m1.ddd4a591b7cc84cbe741.mp3",
+    "static/media/m3.mp3": "/static/media/m3.525ce63265009442fc3d.mp3",
+    "static/media/m8.mp3": "/static/media/m8.1393878810200a47f4d9.mp3",
+    "static/media/m9.mp3": "/static/media/m9.85c23f1cead8173b7958.mp3",
+    "static/media/Remember.mp3": "/static/media/Remember.55ac2ca23f46a22d5192.mp3",
+    "static/media/m2.mp3": "/static/media/m2.4e6cea587d22be5686d1.mp3",
+    "static/media/NineSides.mp3": "/static/media/NineSides.6f5b351e6241e74f2e93.mp3",
+    "static/media/m7.mp3": "/static/media/m7.ee76f7a547b7e531aded.mp3",
+    "static/media/m6.mp3": "/static/media/m6.59d0ceee295ddca1066b.mp3",
+    "static/media/m5.mp3": "/static/media/m5.c4ce642bf310348d0705.mp3",
+    "static/media/m4.mp3": "/static/media/m4.05ec2b896cec43255c47.mp3",
+    "static/media/styzzo.jpg": "/static/media/styzzo.d611a719acc0b3293bfd.jpg",
+    "static/media/m1.jpg": "/static/media/m1.1035b2bb6077d158ffe0.jpg",
+    "static/media/m2.jpg": "/static/media/m2.3f7730f325b047c3450e.jpg",
+    "static/media/m3.jpg": "/static/media/m3.e0338a71941e53a1dbe7.jpg",
+    "static/media/m4.jpg": "/static/media/m4.a83c36b56c7bc17a8e53.jpg",
+    "static/media/m5.jpg": "/static/media/m5.985ba0caea7d27b34112.jpg",
+    "static/media/loading.svg": "/static/media/loading.4c48ba6e069c286be2d5c122d4ee615f.svg",
+    "index.html": "/index.html",
+    "static/media/sun.svg": "/static/media/sun.d02265a7767c1a07eee7f85f68969b2c.svg",
+    "static/media/songList.svg": "/static/media/songList.3bb2c8b97b85535ef2aa3b9b046ce118.svg",
+    "static/media/repeatList.svg": "/static/media/repeatList.68af36facae3e84cba207637b890f927.svg",
+    "static/media/close.svg": "/static/media/close.4e8da9c8690205d8c5662db3c118ff09.svg",
+    "static/media/moon.svg": "/static/media/moon.28f3966a57012edf9b7645ee6a079cdb.svg",
+    "static/media/prev.svg": "/static/media/prev.6d52c7ffed388fcddd32ca7fe13a992c.svg",
+    "static/media/play.svg": "/static/media/play.3ecf07717040c79e31b0b6847fc9fe73.svg",
+    "static/media/pause.svg": "/static/media/pause.d50a554713e5b0e416d9d8a22defc006.svg",
+    "static/media/next.svg": "/static/media/next.cbef9d17425d290bb6294ffc84b4bc54.svg",
+    "main.a97e510b.css.map": "/static/css/main.a97e510b.css.map",
+    "main.426594b2.js.map": "/static/js/main.426594b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a97e510b.css",
+    "static/js/main.426594b2.js"
+  ]
+}
