@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/styzzo.beats/static/css/main.620b27d3.css",
-    "main.js": "/styzzo.beats/static/js/main.add783da.js",
+    "main.css": "/styzzo.beats/static/css/main.179a322a.css",
+    "main.js": "/styzzo.beats/static/js/main.8bde078e.js",
     "static/media/m8.mp3": "/styzzo.beats/static/media/m8.1393878810200a47f4d9.mp3",
     "static/media/m9.mp3": "/styzzo.beats/static/media/m9.85c23f1cead8173b7958.mp3",
     "static/media/Remember.mp3": "/styzzo.beats/static/media/Remember.55ac2ca23f46a22d5192.mp3",
     "static/media/NineSides.mp3": "/styzzo.beats/static/media/NineSides.6f5b351e6241e74f2e93.mp3",
     "static/media/m7.mp3": "/styzzo.beats/static/media/m7.ee76f7a547b7e531aded.mp3",
     "static/media/m6.mp3": "/styzzo.beats/static/media/m6.59d0ceee295ddca1066b.mp3",
-    "static/media/abyssWhispers.jpg": "/styzzo.beats/static/media/abyssWhispers.3cd726bb849a3c92bbc9.jpg",
-    "static/media/lighting.jpg": "/styzzo.beats/static/media/lighting.a00971541ae0b1dfda7a.jpg",
-    "static/media/better.jpg": "/styzzo.beats/static/media/better.f985e1d980c9b99f29ec.jpg",
-    "static/media/styzzo.jpg": "/styzzo.beats/static/media/styzzo.d611a719acc0b3293bfd.jpg",
-    "static/media/remmember.jpg": "/styzzo.beats/static/media/remmember.eb9e26979296dd2d830f.jpg",
-    "static/media/nineSides.jpg": "/styzzo.beats/static/media/nineSides.efa5ab004ca96bc64b42.jpg",
+    "static/media/galaxy.jpg": "/styzzo.beats/static/media/galaxy.441bc1112ec5bbbbb44f.jpg",
+    "static/media/nineSides.jpg": "/styzzo.beats/static/media/nineSides.8ea98c70cdb7dd6c71d1.jpg",
+    "static/media/lighting.jpg": "/styzzo.beats/static/media/lighting.3c59106f23d710ac3b9d.jpg",
+    "static/media/abyssWhispers.jpg": "/styzzo.beats/static/media/abyssWhispers.cc906b7044168db81f9c.jpg",
+    "static/media/better.jpg": "/styzzo.beats/static/media/better.2f9411259ca989422c63.jpg",
+    "static/media/remmember.jpg": "/styzzo.beats/static/media/remmember.78c3bd2753282500732c.jpg",
     "static/media/loading.svg": "/styzzo.beats/static/media/loading.4c48ba6e069c286be2d5c122d4ee615f.svg",
     "index.html": "/styzzo.beats/index.html",
     "static/media/random.svg": "/styzzo.beats/static/media/random.8d0b6614d496ad022f54ddee79d8decd.svg",
@@ -27,11 +27,11 @@
     "static/media/play.svg": "/styzzo.beats/static/media/play.3ecf07717040c79e31b0b6847fc9fe73.svg",
     "static/media/pause.svg": "/styzzo.beats/static/media/pause.d50a554713e5b0e416d9d8a22defc006.svg",
     "static/media/next.svg": "/styzzo.beats/static/media/next.cbef9d17425d290bb6294ffc84b4bc54.svg",
-    "main.620b27d3.css.map": "/styzzo.beats/static/css/main.620b27d3.css.map",
-    "main.add783da.js.map": "/styzzo.beats/static/js/main.add783da.js.map"
+    "main.179a322a.css.map": "/styzzo.beats/static/css/main.179a322a.css.map",
+    "main.8bde078e.js.map": "/styzzo.beats/static/js/main.8bde078e.js.map"
   },
   "entrypoints": [
-    "static/css/main.620b27d3.css",
-    "static/js/main.add783da.js"
+    "static/css/main.179a322a.css",
+    "static/js/main.8bde078e.js"
   ]
 }
